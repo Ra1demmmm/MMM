@@ -1,7 +1,7 @@
 
 # MMM: A Unified Weakly-supervised Anomaly Detection Framework for Multi-distributional Data
 
-This repo contains source codes for the paper [**MMM: A Unified Weakly-supervised Anomaly Detection Framework for Multi-distributional Data**](https://) submitted to IEEE Transactions on Knowledge and Data Engineering.
+This repo contains source codes for the paper [**MMM: A Unified Weakly-supervised Anomaly Detection Framework for Multi-distributional Data**](https://) pulished on IEEE Transactions on Knowledge and Data Engineering.
 
 ## Abstract
 
@@ -18,6 +18,7 @@ From the label aspect, they fall short of detecting unknown anomalies because of
 * scikit-learn 1.4.1
 * scipy 1.12.0
 * torch 1.13.0
+
 
 
 
